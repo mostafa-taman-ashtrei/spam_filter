@@ -34,3 +34,8 @@ run the app
 ```bash 
 $ python app.py 
 ```
+
+# Examples
+
+### Results for spam message 'The IRS is Trying to Contact You'
+![Alt text](./screenshots/screenshot.jpg?raw=true "Screen Shot")

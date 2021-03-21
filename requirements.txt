@@ -1,0 +1,11 @@
+appdirs==1.4.4
+certifi==2020.11.8
+chardet==3.0.4
+click==7.1.2
+distlib==0.3.1
+filelock==3.0.12
+idna==2.10
+importlib-metadata==2.0.0
+six==1.15.0
+virtualenv==20.0.35
+zipp==3.4.0

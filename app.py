@@ -17,6 +17,7 @@ def filter():
     
     return render_template(
         'results.html', 
+        text=text,
         results=results, 
         ham_count=ham_count,
         spam_count=spam_count
